@@ -1,1 +1,4 @@
 Concept of Virtual Functions: https://www.geeksforgeeks.org/virtual-function-cpp/
+Access Modifiers: https://www.geeksforgeeks.org/access-modifiers-in-c/
+Default access modified: public (structs) and private(classes)
+Difference between func(int *a) and func(int &a): https://stackoverflow.com/questions/9139824/how-to-access-protected-members-in-a-derived-class
