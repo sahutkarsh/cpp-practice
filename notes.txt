@@ -4,3 +4,4 @@ Default access modified: public (structs) and private(classes)
 Difference between func(int *a) and func(int &a): https://stackoverflow.com/questions/9139824/how-to-access-protected-members-in-a-derived-class
 Friend Classes: https://www.geeksforgeeks.org/friend-class-function-cpp/
 Struct Constructor Function: https://stackoverflow.com/questions/13125944/function-for-c-struct
+Deque Problem: https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/#disqus_thread
