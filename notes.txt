@@ -5,3 +5,4 @@ Difference between func(int *a) and func(int &a): https://stackoverflow.com/ques
 Friend Classes: https://www.geeksforgeeks.org/friend-class-function-cpp/
 Struct Constructor Function: https://stackoverflow.com/questions/13125944/function-for-c-struct
 Deque Problem: https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/#disqus_thread
+Array Rotation: https://www.geeksforgeeks.org/array-rotation/ (Juggling Method)
