@@ -8,9 +8,9 @@ int matrixChain(int *arr, int n) {
             int x = j;
             int y = i+j;
             int minComp = INT_MAX;
-            for (int i=x; i<y; i++) {
-                int current = dp[x][i] + dp[i+1][y];
-                current += arr[x] * arr[i+1] * arr[y+1];
+            for (int k=x; k<y; k++) {
+                int current = dp[x][k] + dp[k+1][y];
+                current += arr[x] * arr[k+1] * arr[y+1];
                 minComp = min(minComp, current);
             }
             dp[x][y] = minComp;
